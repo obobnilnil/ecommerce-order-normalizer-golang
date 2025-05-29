@@ -1,0 +1,7 @@
+textures:
+  CLEAR:
+    cleaner: CLEAR-CLEANNER
+  MATTE:
+    cleaner: MATTE-CLEANNER
+  PRIVACY:
+    cleaner: PRIVACY-CLEANNER
